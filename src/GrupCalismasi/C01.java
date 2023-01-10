@@ -1,8 +1,12 @@
 package GrupCalismasi;
 
+import java.io.InputStream;
 import java.util.Scanner;
 
 public class C01 {
+    public C01(InputStream in) {
+    }
+
     public static void main(String[] args) {
         // A: Amerika
         // B: Birleşik

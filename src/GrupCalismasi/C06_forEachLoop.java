@@ -1,2 +1,17 @@
-package GrupCalismasi;public class C06_forEachLoop {
+package GrupCalismasi;
+
+public class C06_forEachLoop {
+    public static void main(String[] args) {
+
+
+
+        String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+        for (String i : cars) {
+            System.out.println(i);
+
+
+
+
+        }
+    }
 }

@@ -2,7 +2,7 @@ package GrupCalismasi;
 
 import java.util.Scanner;
 
-public class C02 {
+public class C02_IfElse {
 
     // Kullanıcıdan iki tam sayı alın
     //  Eger birinci sayı 100’den büyükse,”ilk sayı yüzden büyük yazdırın”
